@@ -1,0 +1,22 @@
+
+section{
+  position: absolute;
+}
+
+section img{
+    display: inline-flex;
+    width: 20%;
+    height: 20%;
+}
+
+section{
+    display: inline-flex;
+}
+
+section p{
+    font-size: 15px;
+}
+
+body{
+    background-image: url("color.jpg");
+}
